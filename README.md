@@ -5,7 +5,7 @@
 
 Submitted by: **Zaynab Ghazi**
 
-Time spent: **3.5** hours spent in total
+Time spent: **approx 5** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,7 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] Delete upon swipe instead of long click
-* [ ] Have a button to delete complete tasks
+* [ ] Have a button to delete complete tasks (alternative to ^)
 
 ## Video Walkthrough
 
