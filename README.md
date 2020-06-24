@@ -22,6 +22,7 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] Delete upon swipe instead of long click
+* [ ] Have a button to delete complete tasks
 
 ## Video Walkthrough
 
